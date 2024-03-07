@@ -1,0 +1,17 @@
+
+li{
+    color: rgb(251, 255, 0);
+    border:double 5px;
+    font-size: 90px;
+    background-color: black;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+text-decoration:underline overline;
+}
+p{
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+}
